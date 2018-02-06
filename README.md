@@ -8,11 +8,11 @@ This project is written in Python with the help of the [Selenium](http://www.sel
 
 Google Chrome 
 
-## HOW TO RUN IT? 
+## HOW DO I RUN IT? 
 
 VERSION 1.0 (navigator)
 
-Run Schedule-Creator-master\dist\interface\interface.exe
+Download the dist file and run interface.exe located within.
 
 ## SOURCE CODE
 View webdriverMethods.py to see selenium working with chrome.
