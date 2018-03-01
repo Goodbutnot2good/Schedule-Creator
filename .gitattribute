@@ -2,7 +2,7 @@ build/interface/* linguist-vendored
 dist/interface/* linguist-vendored
 build/* linguist-vendored
 dist/* linguist-vendored
-*.py linguist-vendored=false
 *.toc linguist-language=Python
+*.tcl linguist-language=Python
 
 
