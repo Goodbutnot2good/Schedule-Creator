@@ -1,1 +1,2 @@
-static/* linguist-vendored
+build/* linguist-vendored
+dist/* linguist-vendored
