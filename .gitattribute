@@ -1,5 +1,6 @@
-* linguist-vendored
+build/interface/* linguist-vendored
+dist/interface/* linguist-vendored
 *.py linguist-vendored=false
-*.tex linguist-language=Python
+*.toc linguist-language=Python
 
 
